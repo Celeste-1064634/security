@@ -1,0 +1,4 @@
+{
+  "python.formatting.provider": "black",
+  "livePreview.defaultPreviewPath": "c:\\Users\\yamal\\werkplaats-2-mvc-the-blue-alien\\templates\\loginpage.html"
+}
